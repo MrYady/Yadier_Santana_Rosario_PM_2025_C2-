@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1752189191 source:c:\users\yadie\onedrive\desktop\programacion de mecatronicos\practicas de codeblocks\tarea8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
