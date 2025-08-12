@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1754438191 source:c:\users\yadie\onedrive\desktop\programacion de mecatronicos\practicas de codeblocks\practica_ajedrez\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1754555357 source:c:\users\yadie\onedrive\desktop\programacion de mecatronicos\practicas de codeblocks\practica_ajedrez\prueba2.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+
